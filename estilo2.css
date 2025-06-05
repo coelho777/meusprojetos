@@ -1,0 +1,170 @@
+.dv1 img{
+height:60px;
+width: 60px;
+position: relative;
+right: -190px;
+top: 15px;
+}
+
+.dv1{
+    background-color:rgb(9, 119, 223) ;
+    height: 120px;
+}
+
+.a1{
+    position: absolute;
+top: 32px;
+left: 837px;
+color: black;
+}
+
+.a2{
+    position: absolute;
+    top: 32px;
+    left: 930px;
+    color: black;
+}
+
+.a3{
+    position: absolute;
+    top:32px;
+    left:1110px;
+    color:black;
+}
+
+.a4{
+    position: absolute;
+    top: 32px;
+    left:1218px;
+    color: black;
+}
+
+.h11{
+    position: absolute;
+    top: 3px;
+    left: 270px;
+}
+
+.h44{
+    position: absolute;
+    top:39px;
+    left:270px;
+    color: white;    
+}
+
+*{
+    margin: 0 auto;
+}
+.container{
+    height: 110px;
+    position: relative;
+    background-color: rgb(9, 119, 223);
+}
+.imagem1{
+    padding-left: 300px;
+    padding-top: 20px;
+}
+.title{
+    position: absolute;
+    top: 20px;
+    left: 390px;
+}
+.pr1{
+    position: absolute;
+    left: 390px;
+    top: 52px;
+    color: rgb(210, 218, 224);
+}
+.link1{
+    position: absolute;
+    right: 700px;
+    top: 45px;
+    color: rgb(210, 218, 224);
+    text-decoration: none;
+}
+.link2{
+    position: absolute;
+    right: 570px;
+    top: 45px;
+    color: rgb(210, 218, 224);
+    text-decoration: none;
+}
+.link3{
+    position: absolute;
+    right: 493px;
+    top: 45px;
+    color: rgb(210, 218, 224);
+    text-decoration: none;
+}
+.link4{
+    position: absolute;
+    right: 395px;
+    top: 45px;
+    color: rgb(210, 218, 224);
+    text-decoration: none;
+}
+table{
+    margin-top: 30px;
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+tr, td,th{
+    border: 2px solid black;
+    padding: 15px;
+}
+.pp{
+    border-top: white 3px solid;
+    border-left: white 3px solid;
+    padding: 20px;
+}
+.azulzinho{
+    width: 20px;
+    height: 20px;
+    
+    background-color: rgb(9, 119, 223);
+    border-radius: 100px;
+}
+
+.container3{
+    background-color: rgb(9, 119, 223);
+    height: 200px;
+    text-align: center;
+    margin-top: 60px ;
+    
+}
+
+.nomes{
+    text-align: center;
+    height: 30px;
+    padding-top: 10px;
+}
+.bgl{
+    background-color: rgb(210, 218, 224);
+}
+.imagem2{
+    position: absolute;
+    top: 40px;
+    left: 640px;
+}
+.pr2{
+    position: absolute;
+    left: 730px;
+    top: 90px;
+    color: rgb(210, 218, 224);
+}
+.title2{
+    position: absolute;
+    left: 730px;
+    top: 50px;
+}
+.container3{
+    position: relative;
+}
+.coco{
+    padding-top: 130px;
+    color: rgb(210, 218, 224);
+}
+span{
+    color: rgb(9, 119, 223);
+}

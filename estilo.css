@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo img{
+height: 60px;
+width: 60px;
+position: relative;
+top: 20px;
+right: -170px;
+}
+.dv1{
+    background-color: white;
+    height:120px;
+    width: 100%;
+}
+
+.dv2{
+    background-color: rgb(0, 132, 255);
+    height: 650px;
+    width: 100%;
+
+}
+
+.logo2 img{
+    height: 450px;
+    width: 450px;
+    position: relative;
+    right: -850px;
+}
+
+.dv3{
+    position: relative;
+    top: 170px;
+    height: 100px;
+    width: 500px;
+    right: -250px;
+}
+.branco{
+    color: white;
+}
+
+.dv12{
+    position:fixed;
+    right: 700px;
+    height: 150px;
+    width: 200px;
+    top: -300px;
+}
+
+.dv4{
+    width: 1457px;
+    height: 50px;
+    background-color:blue ;
+    padding-top: 30px;
+    padding: 0 auto;
+    padding: 60px;
+}
+.div4{
+color: aliceblue;
+
+}
+.dv5{
+    background-color:rgb(0, 132, 255) ;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    left: 1100px;
+    top: 850px;
+}
+.a2{
+    color: black;
+    text-align: center;
+}
+
+.dv6 img{
+height: 80px;
+width: 80px;
+}
+.dv6{
+    height: 480px;
+    width: 100%;
+    background-color: aliceblue;
+    padding-top: 80px;
+}
+
+.dv7{
+   position: absolute; 
+   left: 350px;
+   top: 1200px;
+   text-align: center;
+}
+.dv8{
+    position: absolute;
+    left: 700px;
+    top: 1200px;
+    text-align: center;
+}
+.dv9{
+    text-align: center;
+    position: absolute;
+    left:1000px;
+    top: 1200px;
+}
+.dv61{
+    text-align: center;
+}
+
+span{
+    color:rgb(0, 132, 255)
+}
+
+table{
+    border-collapse: collapse;
+    border-radius: 4px;
+    margin: auto;
+    box-shadow: 0px 2px 40px 15px rgb(54, 141, 255);
+    width: 60%;
+    height: 20px;
+}
+
+td{
+    text-align: center;
+    margin: 0 auto;
+    width: 20%;
+    border: 1px solid black;
+    font-size: 20px;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+th{
+    border-left: 1px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+.dv10 h1{
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+
+.dv10{
+    height: 1000px;
+}
+a{
+    text-decoration: none;
+
+}
+.dv11{
+    background-color: rgb(0, 132, 255);
+    height: 130px;
+    width: 100%;
+}
+.class1{
+ color: aliceblue;   
+ padding-left: 400px;
+ padding-top: 35px;
+}
+
+.dv12{
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 2550px;
+
+}
+
+.dv12{
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    top: 2550px;
+    left: 1100px;
+    text-align: center;
+}
+a{
+    text-decoration: none;  
+}
+
+.dv13 img{
+    height:60px;
+    width: 60px;
+    position: absolute;
+    top: 2700px;
+    left: 640px;
+}
+
+.dv14{
+    position: absolute;
+    top: 2700px;
+    left: 720px;
+}
+
+.p1{
+    position: absolute;
+    top: 2800px;
+    left: 630px;
+}
+.p2{
+    position: absolute;
+    top: 2830px;
+    left: 648px;
+}
+
+.p3{
+    position: absolute;
+    top: 2860px;
+    left: 555px;
+}
+
+.p4{
+    position: absolute;
+    top:2894px;
+    left: 548px;
+}
+
+.p5{
+    position: absolute;
+    top:44px;
+    left:605px;
+}
+
+.p51{
+    background-color: darkgrey;
+    height: 90px;
+    width: 100%;
+    position: absolute;
+    top:2990px ;
+}
+
+.h44{
+    position: relative;
+    top: -2490px;
+    left: -877px;
+}
+
+.h11{
+    position: absolute;
+    top: -2530px;
+    left: -860px;
+}
+.a2{
+    color: aliceblue;
+   position: absolute;
+   top: 18px;
+   left: 30px;
+}
+
+.a3{
+    position: absolute;
+top: 48px;
+left: 800px;
+color: black;
+}
+
+.a4{
+    position: absolute;
+    top: 48px;
+    left: 980px;
+    color: black;
+}
+
+.a5{
+    position: absolute;
+    top:48px;
+    left:1100px;
+    color:black;
+}
+
+.a6{
+    position: absolute;
+    top: 48px;
+    left:1220px;
+    color: black;
+}
+
+.foguetinho{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 18px;
+    left: 0px;
+    
+}
+
+.foguetinho2{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top:18px;
+    left:7px;
+}
